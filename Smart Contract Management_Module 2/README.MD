@@ -10,11 +10,11 @@ Executing program
 3. Compile and Build the Application --  Once the dependencies are installed, you need to compile and build the application. This step generates the necessary build files for the React application:
 
 ## run the following commands on terminal
-cd brand-x-bank
-npm install
-cd brand-x-bank
-yarn install
-npm run build
+"cd brand-x-bank"
+"npm install"
+"cd brand-x-bank"
+"yarn install"
+"npm run build"
 
 
 ## License
